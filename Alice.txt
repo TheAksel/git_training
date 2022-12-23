@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I created a second line.
 I am learning GitHub like bob
+I met a new friend. His name is Patrick.
